@@ -1,0 +1,19 @@
+.dwarf {
+  /* We added some general styling to make the dwarves stand out. */
+  text-align: center;
+  color: #ccc;
+  font-size: 18px;
+  min-height: 40px;
+  padding: 10px;
+  margin: 2px;
+  box-shadow: 2px 2px 2px grey;
+}
+
+.grid {
+  /* Be sure to have the parent element display: grid; */
+}
+
+#sleepy {
+  /* We've only added styling for one child element. Be sure to add the rest. */
+  background-color: rgb(60,80,60);
+}
